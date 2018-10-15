@@ -1,5 +1,5 @@
 ### Scope:
- - Boot, test local web sites different iOS simulators
+ - Boot and test local web sites on different iOS simulators
 
 ### Dependencies to be installed:
  -  XCode, Node
